@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\source\\repos\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj": {}
+    "C:\\Users\\Christian\\Source\\Repos\\Progetto-Azzurra\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\source\\repos\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj": {
+    "C:\\Users\\Christian\\Source\\Repos\\Progetto-Azzurra\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\Source\\Repos\\Progetto-Azzurra\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj",
         "projectName": "Progetto Azzurra",
-        "projectPath": "C:\\Users\\Christian\\source\\repos\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj",
+        "projectPath": "C:\\Users\\Christian\\Source\\Repos\\Progetto-Azzurra\\Progetto Azzurra\\Progetto Azzurra\\Progetto Azzurra.csproj",
         "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\source\\repos\\Progetto Azzurra\\Progetto Azzurra\\obj\\",
+        "outputPath": "C:\\Users\\Christian\\Source\\Repos\\Progetto-Azzurra\\Progetto Azzurra\\Progetto Azzurra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
